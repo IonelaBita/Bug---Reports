@@ -37,3 +37,40 @@ No error message is displayed.
 
 **Attachements**
 ![checkout](https://user-images.githubusercontent.com/114156179/198036384-b76521c0-ac3d-4d6c-b790-3ead2963cb71.jpg)
+
+
+--------------------
+
+**Title**
+
+Free shipping is not updated
+
+**Details**
+
+Type: Bug
+
+Priority:
+
+Environment: Windows 11, Browser: Chrome
+
+Severity: Major
+
+**Precondition**
+
+You should have products added to your cart with a value of at least 100 Ron for a free shipping.
+
+**Steps to reproduce**
+
+1. Access https://testare-manuala.locdejoacapentruitsti.com.
+2. Click on the Women Collection option from the top of the left corner of the page.
+3. Click on "ochelari de soare".
+4. Click on add to cart.
+5. Click on view cart button.
+
+**Expected result**
+
+The shipping should be free, should be charged 0 lei.
+
+**Actual result**
+
+Shipping is not free, it is normally charged with 25 lei.

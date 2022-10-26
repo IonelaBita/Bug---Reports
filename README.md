@@ -13,5 +13,13 @@ No error message for invalid username section
 3. Click on add to cart.
 4. Click on view cart.
 5. Click on checkout section.
-6. Click on "Proceed to checkout"
-7. Complete with an invalid username
+6. Click on "Proceed to checkout".
+7. Complete with an invalid username.
+
+**Expected result:**
+
+An error mesage should appear with invald username.
+
+**Actual result**
+
+No error message is displayed.

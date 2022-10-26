@@ -10,8 +10,11 @@ No error message for invalid username section
 **Details**
 
 Type:Bug
+
 Priority:
+
 Environment:Windows 11, Browser: Chrome
+
 Severity: Critical
 
 **Steps to reproduce**

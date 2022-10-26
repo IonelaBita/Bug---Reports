@@ -1,11 +1,17 @@
 # Bug-Reports
-Below are some examples of Bug Report that I found while taking the course at Wantsome School
+Below are some examples of Bug Reports that I found while taking the course at Wantsome School
 
 
 --------------------
 
 **Title**
 No error message for invalid username section
+
+**Details**
+Type: Bug
+Priority:
+Environment: Windows 11, Browser: Chrome
+Severity: Critical
 
 **Steps to reproduce**
 1. Access https://testare-manuala.locdejoacapentruitsti.com.

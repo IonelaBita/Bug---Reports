@@ -5,6 +5,7 @@ Below are some examples of Bug Reports that I found while taking the course at W
 --------------------
 
 **Title**
+
 No error message for invalid username section
 
 **Details**

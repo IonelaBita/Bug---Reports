@@ -20,6 +20,6 @@ No error message for invalid username section
 
 An error mesage should appear with invald username.
 
-**Actual result**
+**Actual result:**
 
 No error message is displayed.

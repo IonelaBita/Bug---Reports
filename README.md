@@ -23,3 +23,4 @@ An error mesage should appear with invald username.
 **Actual result:**
 
 No error message is displayed.
+![checkout](https://user-images.githubusercontent.com/114156179/198036384-b76521c0-ac3d-4d6c-b790-3ead2963cb71.jpg)

@@ -8,9 +8,9 @@ Below are some examples of Bug Reports that I found while taking the course at W
 No error message for invalid username section
 
 **Details**
-Type: Bug
+Type:Bug
 Priority:
-Environment: Windows 11, Browser: Chrome
+Environment:Windows 11, Browser: Chrome
 Severity: Critical
 
 **Steps to reproduce**

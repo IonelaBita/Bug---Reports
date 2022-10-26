@@ -36,10 +36,13 @@ An error mesage should appear with invald username.
 No error message is displayed.
 
 **Attachements**
+
 ![checkout](https://user-images.githubusercontent.com/114156179/198036384-b76521c0-ac3d-4d6c-b790-3ead2963cb71.jpg)
 
 
 --------------------
+
+
 
 **Title**
 
@@ -74,3 +77,9 @@ The shipping should be free, should be charged 0 lei.
 **Actual result**
 
 Shipping is not free, it is normally charged with 25 lei.
+
+**Attachements**
+
+![shipping](https://user-images.githubusercontent.com/114156179/198046408-20497b29-0d14-4df1-9539-b37ffeb9dbfc.jpg)
+
+--------------------

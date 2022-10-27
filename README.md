@@ -119,3 +119,38 @@ Discount coupon should be applied.
 **Actual results:**
 
 Discount coupon does not apply, an error message appears "This coupon has expired".
+
+
+--------------------
+
+**Title**
+
+Images are not properly framed on the page
+
+**Details**
+
+Type: Bug
+
+Priority:
+
+Environment: Windows 11, Browser: Chrome
+
+Severity: Minor
+
+**Steps to reproduce:**
+
+1. Access the site https://poduiloaiei.ro
+2. Click on "Primaria Podu Iloaiei"
+3. See images at the bottom of the page "Noutatile in imagini"
+
+**Expected results:**
+
+The images should be arranged on the page without gaps between them and each one should have a suggestive title.
+
+**Actual results:**
+
+Images are thrown on the page, they aren't the same size and don't have a suggestive title.
+
+**Attachements**
+
+![layout](https://user-images.githubusercontent.com/114156179/198226124-64a7cc09-5ccd-41f9-8653-70b2d66c3c87.png)

@@ -84,3 +84,38 @@ Shipping is not free, it is normally charged with 25 lei.
 
 --------------------
 
+
+**Title**
+
+The coupon code does not apply
+
+**Details**
+
+Type: Bug
+
+Priority:
+
+Environment: Windows 11, Browser: Chrome
+
+Severity: Major
+
+**Precondition**
+
+We should have a valid discount coupon.
+
+**Steps to reproduce:**
+
+1. Access https://testare-manuala.locdejoacapentruitsti.com
+2. Open a product from page
+3. Click on add to cart
+4. Click on view cart
+5. Enter the coupon code in the apply coupon box
+6. Click on apply cupon
+
+**Expected results:**
+
+Discount coupon should be applied.
+
+**Actual results:**
+
+Discount coupon does not apply, an error message appears "This coupon has expired".

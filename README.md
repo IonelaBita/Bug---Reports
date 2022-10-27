@@ -182,7 +182,7 @@ Severity: Major
 
 **Expected results:**
 
-To appear the facebook page of the site.
+The facebook page of the site should be available.
 
 **Actual results:**
 

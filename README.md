@@ -154,3 +154,38 @@ Images are thrown on the page, they aren't the same size and don't have a sugges
 **Attachements**
 
 ![layout](https://user-images.githubusercontent.com/114156179/198226124-64a7cc09-5ccd-41f9-8653-70b2d66c3c87.png)
+
+
+--------------------
+
+**Title**
+
+The facebook page of the site is not valid
+
+**Details**
+
+Type: Bug
+
+Priority:
+
+Environment: Windows 11, Browser: Chrome
+
+Severity: Major
+
+**Steps to reproduce**
+
+1. Access site https://poduiloaiei.ro.
+2. Click on the facebook page of the site.
+
+**Expected results:**
+
+To appear the facebook page of site.
+
+**Actual results:**
+
+Facebook page was not available.
+
+**Attachements**
+
+![_thumb_11776](https://user-images.githubusercontent.com/114156179/198227701-8cd5401a-cc12-4c6d-9d2d-8cafec75e922.png)
+![_thumb_11775](https://user-images.githubusercontent.com/114156179/198227721-017362cc-4c42-443c-846f-4b54202e58d5.png)

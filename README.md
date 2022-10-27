@@ -19,13 +19,13 @@ Environment: Windows 11, Browser: Chrome
 Severity: Major
 
 **Steps to reproduce**
-1. Access https://testare-manuala.locdejoacapentruitsti.com.
-2. Open a product from page.
-3. Click on add to cart.
-4. Click on view cart.
-5. Click on checkout section.
-6. Click on "Proceed to checkout".
-7. Complete with an invalid username.
+1. Access https://testare-manuala.locdejoacapentruitsti.com
+2. Open a product from page
+3. Click on add to cart
+4. Click on view cart
+5. Click on checkout section
+6. Click on "Proceed to checkout"
+7. Complete with an invalid username
 
 **Expected result:**
 
@@ -64,11 +64,11 @@ You should have products added to your cart with a value of at least 100 Ron for
 
 **Steps to reproduce**
 
-1. Access https://testare-manuala.locdejoacapentruitsti.com.
-2. Click on the Women Collection option from the top of the left corner of the page.
-3. Click on "ochelari de soare".
-4. Click on add to cart.
-5. Click on view cart button.
+1. Access https://testare-manuala.locdejoacapentruitsti.com
+2. Click on the Women Collection option from the top of the left corner of the page
+3. Click on "ochelari de soare"
+4. Click on add to cart
+5. Click on view cart button
 
 **Expected result**
 
@@ -106,12 +106,12 @@ We should have a valid discount coupon.
 
 **Steps to reproduce:**
 
-1. Access https://testare-manuala.locdejoacapentruitsti.com.
-2. Open a product from page.
-3. Click on add to cart.
-4. Click on view cart.
-5. Enter the coupon code in the apply coupon box.
-6. Click on apply cupon.
+1. Access https://testare-manuala.locdejoacapentruitsti.com
+2. Open a product from page
+3. Click on add to cart
+4. Click on view cart
+5. Enter the coupon code in the apply coupon box
+6. Click on apply cupon
 
 **Expected results:**
 
@@ -141,9 +141,9 @@ Severity: Minor
 
 **Steps to reproduce:**
 
-1. Access the site https://poduiloaiei.ro.
-2. Click on "Primaria Podu Iloaiei".
-3. See images at the bottom of the page "Noutatile in imagini".
+1. Access the site https://poduiloaiei.ro
+2. Click on "Primaria Podu Iloaiei"
+3. See images at the bottom of the page "Noutatile in imagini"
 
 **Expected results:**
 
@@ -177,8 +177,8 @@ Severity: Major
 
 **Steps to reproduce**
 
-1. Access site https://poduiloaiei.ro.
-2. Click on the facebook page of the site.
+1. Access site https://poduiloaiei.ro
+2. Click on the facebook page of the site
 
 **Expected results:**
 

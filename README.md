@@ -16,7 +16,7 @@ Priority:
 
 Environment: Windows 11, Browser: Chrome
 
-Severity: Critical
+Severity: Major
 
 **Steps to reproduce**
 1. Access https://testare-manuala.locdejoacapentruitsti.com.
@@ -82,6 +82,7 @@ Shipping is not free, it is normally charged with 25 lei.
 
 ![shipping](https://user-images.githubusercontent.com/114156179/198046408-20497b29-0d14-4df1-9539-b37ffeb9dbfc.jpg)
 
+
 --------------------
 
 
@@ -105,12 +106,12 @@ We should have a valid discount coupon.
 
 **Steps to reproduce:**
 
-1. Access https://testare-manuala.locdejoacapentruitsti.com
-2. Open a product from page
-3. Click on add to cart
-4. Click on view cart
-5. Enter the coupon code in the apply coupon box
-6. Click on apply cupon
+1. Access https://testare-manuala.locdejoacapentruitsti.com.
+2. Open a product from page.
+3. Click on add to cart.
+4. Click on view cart.
+5. Enter the coupon code in the apply coupon box.
+6. Click on apply cupon.
 
 **Expected results:**
 
@@ -122,6 +123,7 @@ Discount coupon does not apply, an error message appears "This coupon has expire
 
 
 --------------------
+
 
 **Title**
 
@@ -139,9 +141,9 @@ Severity: Minor
 
 **Steps to reproduce:**
 
-1. Access the site https://poduiloaiei.ro
-2. Click on "Primaria Podu Iloaiei"
-3. See images at the bottom of the page "Noutatile in imagini"
+1. Access the site https://poduiloaiei.ro.
+2. Click on "Primaria Podu Iloaiei".
+3. See images at the bottom of the page "Noutatile in imagini".
 
 **Expected results:**
 
@@ -157,6 +159,7 @@ Images are thrown on the page, they aren't the same size and don't have a sugges
 
 
 --------------------
+
 
 **Title**
 
@@ -179,7 +182,7 @@ Severity: Major
 
 **Expected results:**
 
-To appear the facebook page of site.
+To appear the facebook page of the site.
 
 **Actual results:**
 
